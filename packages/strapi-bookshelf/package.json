@@ -20,7 +20,7 @@
     "lodash": "^4.17.4",
     "pluralize": "^6.0.0",
     "strapi-knex": "3.0.0-alpha.7.3",
-    "strapi-utils": "3.0.0-alpha.7.3"
+    "strapi-utils": "3.0.0"
   },
   "strapi": {
     "isHook": true,
